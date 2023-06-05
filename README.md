@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @santosh
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Machine Learning and Data Analysis
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 👀 I’m interested in Python and AI
+- 🌱 I’m a student of Python Programming language and AI.
+- 💞️ I’m looking to collaborate on Python and AI Projects
 - 📫 How to reach me sksantu71@gmail.com
 
 <!---
